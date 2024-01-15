@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
-  <h1><a https://www.linkedin.com/in/breno-s-39a58a142/">About 😃️👋</a></h1>
+  <h1><a https://www.linkedin.com/in/breno-s-39a58a142/">About 🤙</a></h1>
     <p align="left">
      <h2 align="center">Tudo bem?, sou <a https://www.linkedin.com/in/breno-s-39a58a142/"><i>Breno Santos</i> 😃️👋</a></h2>
       <p align="center"><img width="140em" height="200em" src="https://github.com/thunder-shadow-sword/thunder-shadow-sword/blob/main/assets/myPerfil.png"></p>

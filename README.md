@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
-  <h1>About</h1>
+  <h1>About <a https://www.linkedin.com/in/breno-s-39a58a142/"><i>Breno Santos</i> 😃️👋</a></h1>
     <p align="left">
      <h2 align="center">Tudo bem?, sou <a https://www.linkedin.com/in/breno-s-39a58a142/"><i>Breno Santos</i> 😃️👋</a></h2>
     - 👀 I’m interested in Music, Programation, Robotic and Games; <br>

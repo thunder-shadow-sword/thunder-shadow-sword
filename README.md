@@ -2,7 +2,7 @@
 <div>
   <h1><a https://www.linkedin.com/in/breno-s-39a58a142/">About 🤙</a></h1>
     <p align="left">
-     <h2 align="center">Tudo bem?, sou <i>Breno Santos</i> 😃️👋</h2>
+     <h2 align="center">Tudo bem? Sou <i>Breno Santos</i> 😃️👋</h2>
       <p align="center"><img width="140em" height="200em" src="https://github.com/thunder-shadow-sword/thunder-shadow-sword/blob/main/assets/myPerfil.png"></p>
     - 👀 I’m interested in Music, Programation, Robotic and Games; <br>
     - 🌱 I’m currently learning Computing Engeneer, Eletronic ,Music, Japonese, English; <br>

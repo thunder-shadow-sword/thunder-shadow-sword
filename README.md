@@ -3,7 +3,7 @@
   <h1>About <a https://www.linkedin.com/in/breno-s-39a58a142/"><i>Breno Santos</i> 😃️👋</a></h1>
     <p align="left">
      <h2 align="center">Tudo bem?, sou <a https://www.linkedin.com/in/breno-s-39a58a142/"><i>Breno Santos</i> 😃️👋</a></h2>
-      <p align="center"><img width="200em" height="300em" border-radius="20em" src="https://github.com/thunder-shadow-sword/thunder-shadow-sword/blob/main/assets/myPerfil.jpg"></p>
+      <p align="center"><img width="200em" height="200em" border-radius="20em" src="https://github.com/thunder-shadow-sword/thunder-shadow-sword/blob/main/assets/myPerfil.jpg"></p>
     - 👀 I’m interested in Music, Programation, Robotic and Games; <br>
     - 🌱 I’m currently learning Computing Engeneer, Eletronic ,Music, Japonese, English; <br>
     - 💻 I'm focus in JavaScrit, TypeScript, Nodejs. <br>
